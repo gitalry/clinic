@@ -1,8 +1,10 @@
 # clinic
-a city council clinic website
+a clinic website
 
 
 Tools:
 _______
 
 Foundation ZURB
+HTML, CSS.
+Font Awesome.
