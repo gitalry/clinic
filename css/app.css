@@ -1,0 +1,67 @@
+.top-bar-left li:hover{
+   
+    background-color:rgba(51, 170, 230, 0.07);
+/*        rgba(230, 51, 51, 0.1);*/
+}
+
+.top-bar-left a{
+    color: grey;
+    
+}
+
+.top-bar-left a:hover{
+    color: red;
+}
+
+
+
+.buttons {
+    border-radius: 100px/50px;
+    background-color: red;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 130px;
+    height: 50px;
+    -moz-border-radius: 100px/ 50px;
+    -webkit-border-radius: 100px/ 50px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+
+.menubar {
+    height: 0px;
+    
+}
+
+.button {
+    background-color: red;
+}
+
+.rowtwo {
+    background-image: url(../img/me.jpeg);
+    background-repeat: no-repeat;
+    background-image: cover;
+    margin-left: 20px;
+}
+
+.innerdiv {
+    height: 90px;
+}
+
+.h2 {
+    color: white;
+}
+
+.top-bar-right{
+    letter-spacing: 0.2em;
+    margin-top: 1em;
+}
+
+#button{
+border-radius: 0.2em;
+    margin-left: 12%;
+    width: 100%;
+}
+
+
