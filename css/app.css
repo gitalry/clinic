@@ -9,10 +9,13 @@
     
 }
 
-.top-bar-left a:hover{
-    color: red;
+li a:hover{
+    color: skyblue;
+    padding-top: 20px;
 }
-
+li{
+   padding-top: 20px;
+}
 
 
 .buttons {
@@ -29,8 +32,7 @@
 }
 
 
-.menubar {
-    height: 0px;
+
     
 }
 
@@ -53,15 +55,15 @@
     color: white;
 }
 
-.top-bar-right{
-    letter-spacing: 0.2em;
-    margin-top: 1em;
+
+span{
+    color: deeppink;
 }
-
-#button{
-border-radius: 0.2em;
-    margin-left: 12%;
-    width: 100%;
+.nav{
+    background-image: url(../img/pyramid.png);
+    height: 100px;
 }
-
-
+.footer{
+    background-image: url(../img/pyramid.png);
+    height: 200px;
+}
