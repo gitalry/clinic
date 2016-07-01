@@ -26,7 +26,7 @@
                     <li class="menu-text"><b>Good Hope Clinic</b></li>
 
                     <li><a href="index.html">Home</a></li>
-                    <li> <a href="services.html">Our Services</a></li>
+                    <li> <a href="ourservices.html">Our Services</a></li>
                     <li><a href="specialist.html">Specialist</a></li>
                     <li><a href="news.html">Notice Board</a></li>
                 </ul>
@@ -35,58 +35,34 @@
 
         </div>
     </div>
+    <div class="row">
+        <div class="large-12 columns">
+
+
+            <img src="img/inpatient.jpg" width=100% alt=" nursing staff">
 
 
 
-    <div class="row slider">
-
-        <div id="slider">
-            <figure>
-
-                <img src="img/1.jpg">
-                <img src="img/2.jpg">
-                <img src="img/3.jpg">
-                <img src="img/4.jpg">
-
-            </figure>
         </div>
     </div>
+
     <div class="row">
-        <div class="small 12 medium-12 large-12 columns">
-            <span><b>About Us</b></span>
+        <div class="small-12 large-12 columns">
+
+            <p> The NWT Health Care Plan covers the cost of medically necessary hospital services, provided at a hospital, on an inpatient or outpatient basis within Canada.
+                <br> You must be registered under the NWT Health Care Plan to receive these services.</p>
+            <h1> Services Covered</h1>
             <br>
-            <p>The Good Hope Clinic is located in Nairobi, Kenya. Contruction started on September 2014 , completed on August the following year and officially opened on November. It was later renamed. it is located in the Upper Hill part of Nairobi Good Hope Clinic is dedicated to offering patients and their families, efficient service and great value for their money.</p>
-            <p> We are devoted to providing a warm, friendly and caring environment in which patients can recover. We are an organization that inspires our staff to achieve the extraordinary and develop the best careers.</p>
-            <br>
-            <hr>
+            <ul>
+                <ul>accommodation and meals at the standard ward care</ul>
+                <ul> nursing services, when provided by the hospital</ul>
+                <ul>laboratory, X-ray and diagnostic procedures, and interpretation </ul>
+                <ul>drugs prescribed by a physician and administered in the hospital</ul>
+                <ul> use of the operating room, case room, and anaesthetic facilities required for diagnosis and treatment, including necessary equipment and supplies </ul>
+                <ul>radiotherapy treatment, occupational therapy, and physiotherapy when provided by an insured facility</ul>
+                <ul> detoxification services in an approved health facility</li> <p>Other limitations and restrictions may apply.</p> Services Not Covered hospital charges above the standard ward rate for private or semi-private accommodation services that are not medically required, such as cosmetic surgery services that are considered experimental ambulance charges (except inter-hospital transfers) dental services, other than specific procedures related to jaw injury or disease alcohol and drug rehabilitation, unless prior approved
+
         </div>
-    </div>
-    <div class="row">
-        <div class="small-12 medium-12 large-12 columns">
-            <h1 align="center">Our Partners</h1>
-            <hr>
-        </div>
-    </div>
-    <div class="row">
-        <div class="small-6 medium-2 large-2 columns">
-            <img src="img/redcross.jpeg">
-        </div>
-        <div class="small-6 medium-2 large-2 columns">
-            <img src="img/dfid.jpg">
-        </div>
-        <div class="small-6 medium-2 large-2 columns">
-            <img src="img/PSI%20Logo.jpg">
-        </div>
-        <div class="small-6 medium-2 large-2 columns">
-            <img src="img/rotary.png">
-        </div>
-        <div class="small-6 medium-2 large-2 columns">
-            <img src="img/KNH-Logo.jpg">
-        </div>
-        <div class="small-6 medium-2 large-2 columns">
-            <img src="img/john.jpg">
-        </div>
-        <hr>
     </div>
     <div class="row footer">
         <div class="small 12 medium-12 large-6 columns ">
